@@ -1,0 +1,4 @@
+   IPv4 Address. . . . . . . . . . . : 192.168.0.248(Preferred) 
+DATE_TIME_OF_INIT: 2023-11-23_0736 AM 
+   IPv4 Address. . . . . . . . . . . : 192.168.0.248(Preferred) 
+DATE_TIME_OF_INIT: 2023-11-23_0736 AM 

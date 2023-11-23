@@ -1,0 +1,15 @@
+body{
+    background-color: #2C2F33;
+}
+p, h2{
+    font-family: 'Ubuntu', sans-serif;
+}
+#text2{
+    color: #ffffff; 
+}
+#topbar{
+    -webkit-app-region: drag;
+}
+button{
+    -webkit-app-region: no-drag;
+}

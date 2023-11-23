@@ -1,0 +1,9 @@
+Host Name:                 RM-ENT-SDESK
+OS Name:                   Microsoft Windows 10 Enterprise
+OS Version:                10.0.19045 N/A Build 19045
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+BIOS Version:              Dell Inc. 1.26.0, 8/20/2023
+                                 Connection Name: Ethernet
+                                 Connection Name: Wi-Fi
